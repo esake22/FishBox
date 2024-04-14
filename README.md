@@ -1,3 +1,6 @@
+# Made for SharkHacks 2024 by Emma Shum, Megan McNamara, & Julia Lau
+# Designed in Figma, Built in Locofy
+
 # Recommended next steps:
 Note: Make sure you have installed native code dependencies [here](https://reactnative.dev/docs/environment-setup#installing-dependencies)
 
